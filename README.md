@@ -1,3 +1,5 @@
+## MOVED TO https://github.com/fischer-matthias/containers
+
 [![Build Status](https://travis-ci.com/fischer-matthias/capacitor-android.svg?branch=master)](https://travis-ci.com/fischer-matthias/capacitor-android)
 
 # capacitor-android
